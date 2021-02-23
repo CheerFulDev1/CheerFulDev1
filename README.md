@@ -31,12 +31,12 @@ Hi, I'm Hamza Loukili (CheerFulDev1), a passionate self-taught Game Developer/De
 
 
 
-<a href="https://github.com/Kadantte/github-readme-stats">
-  <img align="center" src="https://stats.cheerfuldev1.io/api?username=cheerfuldev1&show_icons=true&theme=merko" alt="CheerFulDev1's github stats" />
+<a href="https://github.com/cheerfuldev1/github-readme-stats">
+  <img align="center" src="https://stats.CheerFulDev1/api?username=CheerFulDev1&show_icons=true&theme=merko" alt="CheerFulDev1's github stats" />
 </a>
 
 <br />
 
-<a href="https://komarev.com/ghpvc/?username=cheerfuldev1">
-  <img align="center" src="https://komarev.com/ghpvc/?username=cheerfuldev1" />
+<a href="https://komarev.com/ghpvc/?username=CheerFulDev1">
+  <img align="center" src="https://komarev.com/ghpvc/?username=CheerFulDev1" />
 </a>
