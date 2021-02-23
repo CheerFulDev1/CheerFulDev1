@@ -32,7 +32,7 @@ Hi, I'm Hamza Loukili (CheerFulDev1), a passionate self-taught Game Developer/De
 
 
 <a href="https://github.com/cheerfuldev1/github-readme-stats">
-  <img align="center" src="https://stats.CheerFulDev1/api?username=CheerFulDev1&show_icons=true&theme=merko" alt="CheerFulDev1's github stats" />
+  <img align="center" src="https://stats.kadantte.moe/api?username=CheerFulDev1&show_icons=true&theme=merko" alt="CheerFulDev1's github stats" />
 </a>
 
 <br />
