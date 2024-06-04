@@ -1,7 +1,7 @@
 ### Hi there, I'm Hamza Loukili [CheerFulDev1](https://github.com/CheerFulDev1) 👋
 
 <a href="https://twitter.com/LoukiliHamza1">
-  <img align="left" alt="My Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="My Twitter" width="21px" src="https://www.svgrepo.com/show/11841/twitter.svg" />
 </a>
 
 <a href="https://www.youtube.com/c/CheerFulDev">
