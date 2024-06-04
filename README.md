@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.youtube.com/c/CheerFulDev">
-  <img align="left" alt="My Youtube Channel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg" />
+  <img align="left" alt="My Youtube Channel" width="21px" src="[[https://upload.wikimedia.org/wikipedia/commons/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://www.svgrepo.com/show/80677/youtube.svg)" />
 </a>
 
 <br />
